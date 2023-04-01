@@ -1,0 +1,28 @@
+{
+  "name": "murmurlibjs",
+  "version": "1.0.0",
+  "description": "modules of commonly used snippets or pattern codes",
+  "main": "-",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murmurlab/murmurlibjs.git"
+  },
+  "keywords": [
+    "module",
+    "component",
+    "pattern",
+    "snippet"
+  ],
+  "author": "murmurlab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murmurlab/murmurlibjs/issues"
+  },
+  "homepage": "https://github.com/murmurlab/murmurlibjs#readme",
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
