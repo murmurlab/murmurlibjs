@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "modules of commonly used snippets or pattern codes",
   "main": "-",
+  "type": "module",
   "scripts": {
     "test": "-"
   },
